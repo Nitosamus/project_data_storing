@@ -13,9 +13,8 @@ system("clear")
 #file_json = Email.new
 #puts file_json.final_array
 
-#puts final_array
-#puts save_as_json
+puts final_array
+puts save_as_json
 puts save_as_csv
-#puts save_as_spreadsheet
-
+puts save_as_spreadsheet
 
